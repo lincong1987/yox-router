@@ -24,4 +24,4 @@ CDN
 
 ## Document
 
-[技术预览版](https://www.gitbook.com/book/musicode/yox-router/details)
+[技术预览版](https://musicode.gitbooks.io/yox-router/)
